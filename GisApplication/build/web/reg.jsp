@@ -3,10 +3,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Registeration</title>
-    </head>
+        <title>Registration</title>
+    </head
     <body>
-        <form method="post" action="registration.jsp">
+        <form method="post" action="Registration.jsp">
             <center>
             <table border="1" width="30%" cellpadding="5">
                 <thead>
@@ -17,11 +17,11 @@
                 <tbody>
                     <tr>
                         <td>User Name</td>
-                        <td><input type="text" name="uname" value="" /></td>
+                        <td><input type="text" name="uname" /></td>
                     </tr>
                     <tr>
                         <td>Password</td>
-                        <td><input type="password" name="pass" value="" /></td>
+                        <td><input type="password" name="pass" /></td>
                     </tr>
                     <tr>
                         <td><input type="submit" value="Submit" /></td>
